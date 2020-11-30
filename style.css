@@ -14,8 +14,10 @@ body{
 .clock{        
     color: #6ac5fa;
     font-family: 'Cyberverse';
-    font-size: 6rem;
+    font-size: 6rem;    
     margin: 2rem auto;
     max-width: 400px;
-    padding: 3rem;    
+    padding: 3rem;
+    position: relative;
+    top: 30vh; 
 }
