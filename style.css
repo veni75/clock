@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: Cyberverse;
+    src: url('../font/Cyberverse Condensed Bold.otf');
+ }
+
+body{
+    background-color: #000000;    
+}
+
+.clock{        
+    color: #6ac5fa;
+    font-family: 'Cyberverse';
+    font-size: 6rem;
+    margin: 2rem auto;
+    max-width: 400px;
+    padding: 3rem;    
+}
